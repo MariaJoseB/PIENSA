@@ -9,8 +9,6 @@ Requisitos funcionales
  -Ventanas para la historia  interactiva
  -Ventanas para configurar
  
-
 Requisitos no funcionales
 
- -
- -
+ -Elementos utilizados
