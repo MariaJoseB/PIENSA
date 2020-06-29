@@ -1,27 +1,27 @@
 # PIENSA
 Proyecto App Maltrato Infantil
 
-  *Requisitos funcionales
+*Requisitos funcionales
+
   
-  *Registro de usuarios con correo 
+  * Registro de usuarios con correo 
   
-  *Ventana principal de acceso (Continuar, empezar historia)
+  * Ventana principal de acceso (Continuar, empezar historia)
   
-  *Ventana para un MENU
+  * Ventana para un MENU
   
-  *Ventanas para la historia interactiva
+  * Ventanas para la historia interactiva
   
-  *Ventanas para configurar
-  
+  * Ventanas para configurar
+
   * Que el menú sea interactivo
   
   
  
 *Requisitos no funcionales
 
- - Elementos utilizados
- - Base de datos de correo electronico de los padres en la nube
- - Interfaz de las ventanas JAVA
- -
- 
- 
+ -Elementos utilizados (uso de API´s)
+ - base de datos de correo electronico de los padres (en la nube)
+ - El lenguaje de programacion para el menú interactivo
+ - Investigacion llevada
+ - 
