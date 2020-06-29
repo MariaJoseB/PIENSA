@@ -19,7 +19,7 @@ Proyecto App Maltrato Infantil
  
 *Requisitos no funcionales
 
- -Elementos utilizados
+ - Elementos utilizados
  - Base de datos de correo electronico de los padres en la nube
  - Interfaz de las ventanas JAVA
  -
