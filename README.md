@@ -8,7 +8,11 @@ Proyecto App Maltrato Infantil
   *Ventana para un MENU
   *Ventanas para la historia interactiva
   *Ventanas para configurar
+  * Que el menú sea interactivo
+  
  
 *Requisitos no funcionales
 
  -Elementos utilizados
+ - base de datos de correo electronico de los padres
+ 
