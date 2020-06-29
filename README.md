@@ -1,9 +1,7 @@
 # PIENSA
 Proyecto App Maltrato Infantil
 
-*Requisitos funcionales
-
-  *Base de datos
+  *Requisitos funcionales
   
   *Registro de usuarios con correo 
   
@@ -22,7 +20,8 @@ Proyecto App Maltrato Infantil
 *Requisitos no funcionales
 
  -Elementos utilizados
- - Base de datos de correo electronico de los padres
- - Interfaz de las ventanas
+ - Base de datos de correo electronico de los padres en la nube
+ - Interfaz de las ventanas JAVA
+ -
  
  
