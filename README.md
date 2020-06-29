@@ -24,4 +24,3 @@ Proyecto App Maltrato Infantil
  - base de datos de correo electronico de los padres (en la nube)
  - El lenguaje de programacion para el menú interactivo
  - Investigacion llevada
- - 
