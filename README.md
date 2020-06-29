@@ -2,6 +2,7 @@
 Proyecto App Maltrato Infantil
 
 *Requisitos funcionales
+
   *Base de datos
   *Registro de usuarios con correo 
   *Ventana principal de acceso (Continuar, empezar historia)
